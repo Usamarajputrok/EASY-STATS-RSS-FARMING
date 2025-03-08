@@ -1,15 +1,15 @@
 {
-    "version": "v1.4.3.060721_beta",
+    "version": "v1.1",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
-        "text": "Welcome to use Rise of Kingdoms Bot, check update on",
+        "text": "Welcome to EASY STATS RSS FARMING, Check update on",
         "row": 0,
         "column": 0
     },
     "link": {
         "update": true,
-        "text": "GitHub",
+        "text": "Get Update",
         "url": "https://github.com/Dylan-Zheng/Rise-of-Kingdoms-Bot",
         "row": 0,
         "column": 1
