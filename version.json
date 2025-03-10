@@ -3,13 +3,13 @@
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
-        "text": "EASY STATS RSS FARMING, check update on",
+        "text": "WELCOME TO EASY STATS RSS FARMING BOT",
         "row": 0,
         "column": 0
     },
     "link": {
         "update": true,
-        "text": "DOWNLOAD UPDATE",
+        "text": "JOIN DISCORD",
         "url": "https://github.com/Dylan-Zheng/Rise-of-Kingdoms-Bot",
         "row": 0,
         "column": 1
