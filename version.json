@@ -1,5 +1,5 @@
 {
-    "version": "v1.1",
+    "version": "v1.0",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
@@ -10,8 +10,8 @@
     "link": {
         "update": true,
         "text": "DOWNLOAD NOW",
-        "urlcloud": "https://github.com/Dylan-Zheng/Rise-of-Kingdoms-Bot",
+        "url": "https://github.com/Dylan-Zheng/Rise-of-Kingdoms-Bot",
         "row": 0,
-        "column": 0
+        "column": 1
     }
 }
