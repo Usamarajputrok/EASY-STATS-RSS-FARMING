@@ -10,7 +10,7 @@
     "link": {
         "update": true,
         "text": "DOWNLOAD NOW",
-        "url": "https://github.com/Dylan-Zheng/Rise-of-Kingdoms-Bot",
+        "urlcloud": "https://github.com/Dylan-Zheng/Rise-of-Kingdoms-Bot",
         "row": 0,
         "column": 1
     }
